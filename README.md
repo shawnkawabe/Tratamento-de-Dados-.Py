@@ -16,6 +16,7 @@ Referente as linhas comentadas, ao utilizar para impressão gráfica, apagar o "
 #dx = np.array(range(len(t)))*10
 #dy = np.array(range(len(y)))*10 }
 
-# Referente às projeções de gráfico 
+# Referente às projeções de gráfico
+* O python tende a projetar o gráfico pra cima mesmo que diminuindo, então fiz isso por cima no editor, só pra não ficar muito confuso, porém nos dados de zoom, o grafico cresce em direção a zero.  *
 <a href="https://ibb.co/CvRfstc"><img src="https://i.ibb.co/Xpcqk4Q/grafico-x.png" alt="grafico-x" border="0"></a>
 <a href="https://ibb.co/KrGN2xw"><img src="https://i.ibb.co/DRbG9fp/grafico-y.png" alt="grafico-y" border="0"></a>
